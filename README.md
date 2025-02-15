@@ -3,7 +3,7 @@
 ## ⭐️ Overview  
 In Week 6 of the Data Bootcamp, I focused on **Python programming, data manipulation, and analysis**. I worked with **Pandas, data visualisation, and aggregation techniques** using real-world datasets. 
 
-## 📍 Key Learnings  
+## 📌 Key Learnings  
 
 ### 1. **Python Fundamentals & FizzBuzz Challenge**  
 - Implemented **FizzBuzz** in Python, demonstrating control flow and modular programming.  
